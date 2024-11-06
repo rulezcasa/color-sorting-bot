@@ -6,6 +6,7 @@ This codebase implements a YOLOV8 architecture to accurately identify and sort o
 sorting system, demonstrating its potential to streamline production workflows, improve quality control, and enhance overall manufacturing efficiency. The final model was deployed and simulated in the webot environment for real-time analysis.
 
 
+<img width="424" alt="Screenshot 2024-11-06 at 10 18 00 AM" src="https://github.com/user-attachments/assets/a041e3bc-22c5-45dd-9cf8-5e30a2008b0d">
 
 
 
