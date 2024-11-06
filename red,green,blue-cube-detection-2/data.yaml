@@ -1,0 +1,14 @@
+names:
+- bluecube
+- green cube
+- red cube
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: red-green-blue-cube-detection
+  url: https://universe.roboflow.com/jakub-lof/red-green-blue-cube-detection/dataset/2
+  version: 2
+  workspace: jakub-lof
+test: /Users/casarulez/Projects/color-sorting/red,green,blue-cube-detection-2/test/images
+train: /Users/casarulez/Projects/color-sorting/red,green,blue-cube-detection-2/train/images
+val: /Users/casarulez/Projects/color-sorting/red,green,blue-cube-detection-2/valid/images
